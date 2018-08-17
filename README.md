@@ -2,7 +2,7 @@
 
 ## Baishi Platform
 
-Please visit the [installation instructions](https://baishi.io)
+Please visit the [our site](https://baishi.io)
 
 ## Download Binaries and Docker Images
 
